@@ -5,4 +5,4 @@ Game's role come from wikipedia.
 
 
 
-for run the project: java JeuDeBataille
+For running the project: java JeuDeBataille
